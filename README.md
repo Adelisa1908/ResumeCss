@@ -1,5 +1,4 @@
 # ResumeCss
-My resume in css
 <!DOCTYPE html>
 <html>
 
